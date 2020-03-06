@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppMovie</string>
+    <string name="title_peliculas">Peliculas</string>
+    <string name="title_series">Series</string>
+    <string name="title_favoritos">Favoritos</string>
+    <string name="recommended">LAS MAS BUSCADAS</string>
+    <string name="top_rated_movies">PELICULAS MEJOR VALORADAS</string>
+    <string name="search_box_string">¿Qué pelicula desea buscar?</string>
+    <string name="añadir">Pulsa para guardar:</string>
+</resources>

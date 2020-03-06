@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C3848</color>
+    <color name="colorPrimaryDark">#5CA0D3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="dorado">#FCD307</color>
+    <color name="dorado_inactivo">#2C3848</color>
+    <color name="azulFondo">#2C3848</color>
+    <color name="azulClaro">#5CA0D3</color>
+</resources>
